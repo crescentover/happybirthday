@@ -1,0 +1,56 @@
+html {
+    background-image: url("../images/qqq.jpg");
+}
+
+body {
+    width: 608px;
+    height: 822px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 200px solid pink;
+}
+
+a {
+    font-size: 12pt;
+    color: #686143;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 36pt;
+    color: #000;
+    border-top: 2px dotted #686143;
+    border-bottom: 2px dotted #686143;
+    text-transform: uppercase;
+    font-family: cursive;
+
+}
+
+.spaces {
+    font-size: 0pt;
+    line-height: 14pt;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    font-size: 12pt;
+    line-height: 14pt;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+img {
+    border: medium solid #666;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, .3);
+
+}
+
+
+
+a:hover {
+    color:pink;
+
+}
